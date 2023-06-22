@@ -1,0 +1,28 @@
+p{
+   color: white ;
+}
+
+.red{
+    display: block;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    
+}
+
+.green{
+    display: block;
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    margin: 0%;
+    padding-top: 0%;
+}
+
+.blue{
+    display: block;
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+   
+}
